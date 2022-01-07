@@ -1,0 +1,11 @@
+.map {
+     height: 400px;
+     width: 100%;
+    }
+.drawing{
+    top: 65px;
+    left: .5em;
+}
+.ol-touch .drawing {
+    top: 80px;
+  }
